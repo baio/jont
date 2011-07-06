@@ -1,0 +1,29 @@
+.form-label{
+    width:10% !important;
+}
+.form-label-left{
+    width:10% !important;
+}
+.form-label-right{
+    width:10% !important;
+}
+.form-line{
+    padding:10px;
+}
+.form-all{
+    width:100%;
+    background:rgb(207, 204, 200) url(http://www.jotform.com/images/noises/noise.png);
+    color:rgb(82, 75, 58) !important;
+    font-family:Tahoma;
+    font-size:13px;
+}
+.form-input
+{
+    width : 80%;
+}
+
+.form-input > input
+{
+    width : 100%;
+    margin-left: 10px;
+}
