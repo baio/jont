@@ -240,3 +240,29 @@ table.data tr.even td { background: #F9F9F9; }
 
 table.data.stripe tr:nth-child(odd) td { background-color:#F6F6F6; }
 table.data.stripe tr:nth-child(even) td { background-color:#FFF; }
+
+/*
+    Table toolbox
+*/
+
+.table-toolbox
+{
+    style: "background:#CFCCC8 url(http://www.jotform.com/images/noises/noise.png);"
+}
+
+.table-toolbox  input
+{
+    background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#f5f5f5));
+    background: -moz-linear-gradient(top, #fff, #f5f5f5);
+    background: -o-linear-gradient(top, #fff, #f5f5f5);
+    background-color: #f5f5f5;
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 14px;
+    margin-bottom: 0px;
+    border-radius: 12px;
+    -moz-border-radius: 12px;
+    -webkit-border-radius: 12px;
+    height: 22px;
+}
